@@ -1,4 +1,4 @@
-🌊 FloodPrediction
+# 🌊 FloodPrediction
 **FloodPrediction** - is a project focused on building a machine learning model to predict the likelihood of floods based on meteorological and geographical data.
 
 ## 📝 Description
